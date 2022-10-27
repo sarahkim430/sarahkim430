@@ -9,7 +9,6 @@
 
 <h3 align="center"> 📊 Project 📊 </h3>
 
-<p align="center">
 1. Wine Recommendation Group Project (2022)
 - Web scraped datasets required for the project from Vivino website
 - Participated in data EDA and pre-processing using Python, Pandas, and Matplotlib
