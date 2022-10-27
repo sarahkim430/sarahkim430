@@ -9,14 +9,15 @@
 
 <h3 align="center"> 📊 Project 📊 </h3>
 
-<div align="center">
+
 1. Wine Recommendation Group Project (2022)
 - Web scraped datasets required for the project from Vivino website
 - Participated in data EDA and pre-processing using Python, Pandas, and Matplotlib
 - Applied collaborative Filtering and content-based Filtering for the algorithm
 
+
 2. Predictive Analytics for Insurance Fraud Detection (2022)
 - To predict insurance fraud using data from insurance company H in R studio 
 - Data EDA, processing, modelling
 - Methods used: Decision Tree, Random Forest, Xgboost, Voting 
-</div>  
+
