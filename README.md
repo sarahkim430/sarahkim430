@@ -21,3 +21,10 @@
 - Data EDA, processing, modelling
 - Methods used: Decision Tree, Random Forest, Xgboost, Voting 
 
+
+<h3 align="center"> 📈 Python Mini Project 📉 </h3>
+
+1. Star Wars Data Exploration Project
+2. Commerce Data Exploration Project
+3. Personal Loan Prediction Project
+4. Wine Quality Classification Project
